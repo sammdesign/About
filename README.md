@@ -1,3 +1,6 @@
+Sam is a designer, writer, and systems thinker passionate about technology solutions that improve the quality of people’s lives. Focused on digital products and services, he is intent on improving user experience through better process, information architecture, and interaction design. As a Senior Design Consultant at Cantina - a Boston-based digital design and development agency - Sam brings order and aesthetics to the experience of digital tools, mobile apps, and user interfaces.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sammdesign/personal-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
