@@ -7,15 +7,25 @@ Sam has worked with both technology industry titans as well as nimble startup co
 Beyond the screen, Sam is an outdoor adventurer and conservation advocate with an interest in renewable energy. He enjoys exploring our National Parks, hiking in the White Mountains, and making pure maple syrup at his family’s farm in New Hampshire.
 
 ### Find him online:
-[Twitter](https://twitter.com/samMdesign)
-[LinkedIn](https://www.linkedin.com/in/sammdesign)
-[Dribbble](https://dribbble.com/samMdesign)
-[Medium](https://medium.com/@sammdesign)
-[Behance](https://www.behance.net/sammdesign)
+[Twitter](https://twitter.com/samMdesign)     
+[LinkedIn](https://www.linkedin.com/in/sammdesign)     
+[Dribbble](https://dribbble.com/samMdesign)     
+[Medium](https://medium.com/@sammdesign)     
+[Behance](https://www.behance.net/sammdesign)     
 
 ## Select articles
 
-[The Forgotten Five:
-Common Design Omissions that Wreck UX]
+[Zeplin, Sketch Measure, and InVision Inspect: Comparing Design Spec Tools for UI Development]
+(https://cantina.co/zeplin-sketch-measure-and-invision-inspect/)
+
+[The Forgotten Five: Common Design Omissions that Wreck UX]
 (https://cantina.co/the-forgotten-five-common-design-omissions-that-wreck-ux/)
 
+[The Spectrum of Digital Design Skills: A Simple Framework For Matching Project Needs With the Right Designer]
+(https://medium.com/@sammdesign/the-spectrum-of-digital-design-skills-b23d465ac8b6#.h9bzxgtzc)
+
+[Designing Simple Navigation Systems for Large Sites]
+(https://cantina.co/designing-simple-navigation-systems-for-large-sites/)
+
+[How Designers Can Be Agents of Change: Excerpt from my talk at the Sustainable UX Conference]
+(https://medium.com/@sammdesign/how-designers-can-be-agents-of-change-d73c41d5f2bc#.qxzgx05xy)
