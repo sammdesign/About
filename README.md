@@ -1,4 +1,5 @@
 # Sam Moore
+
 ### User Experience Designer
 
 Sam is a designer, writer, and systems thinker passionate about technology solutions that improve the quality of people’s lives. Focused on digital products and services, he is intent on improving user experience through better process, information architecture, and interaction design. As a Senior Design Consultant at [Cantina](https://cantina.co/) - a Boston-based digital design and development agency - Sam brings order and aesthetics to the experience of digital tools, mobile apps, and user interfaces.
@@ -6,7 +7,7 @@ Sam is a designer, writer, and systems thinker passionate about technology solut
 Beyond the screen, Sam is an outdoor adventurer and conservation advocate with an interest in renewable energy. He enjoys exploring our National Parks, hiking in the White Mountains, and making pure maple syrup at his [family’s farm](https://www.windsweptmaples.com/) in New Hampshire.
 
 ### Find him online
-
+<a href="https://twitter.com/samMdesign" target="_blank">Twitter</a>
 [Twitter](https://twitter.com/samMdesign)
 [LinkedIn](https://www.linkedin.com/in/sammdesign)
 [Dribbble](https://dribbble.com/samMdesign)
