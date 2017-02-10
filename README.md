@@ -17,12 +17,12 @@ Beyond the screen, Sam is an outdoor adventurer and conservation advocate with a
 
 ### Select articles
 
-[Zeplin, Sketch Measure, and InVision Inspect: Comparing Design Spec Tools for UI Development](https://cantina.co/zeplin-sketch-measure-and-invision-inspect/)
+<a href="https://cantina.co/zeplin-sketch-measure-and-invision-inspect/" target="_blank">Zeplin, Sketch Measure, and InVision Inspect: Comparing Design Spec Tools for UI Development</a>
 
-[The Forgotten Five: Common Design Omissions that Wreck UX](https://cantina.co/the-forgotten-five-common-design-omissions-that-wreck-ux/)
+<a href="https://cantina.co/the-forgotten-five-common-design-omissions-that-wreck-ux/" target="_blank">The Forgotten Five: Common Design Omissions that Wreck UX</a>
 
-[The Spectrum of Digital Design Skills: A Simple Framework For Matching Project Needs With the Right Designer](https://medium.com/@sammdesign/the-spectrum-of-digital-design-skills-b23d465ac8b6#.h9bzxgtzc)
+<a href="https://medium.com/@sammdesign/the-spectrum-of-digital-design-skills-b23d465ac8b6#.h9bzxgtzc" target="_blank">The Spectrum of Digital Design Skills: A Simple Framework For Matching Project Needs With the Right Designer</a>
 
-[Designing Simple Navigation Systems for Large Sites](https://cantina.co/designing-simple-navigation-systems-for-large-sites/)
+<a href="https://cantina.co/designing-simple-navigation-systems-for-large-sites/" target="_blank">Designing Simple Navigation Systems for Large Sites</a>
 
-[How Designers Can Be Agents of Change: Excerpt from my talk at the Sustainable UX Conference](https://medium.com/@sammdesign/how-designers-can-be-agents-of-change-d73c41d5f2bc#.qxzgx05xy)
+<a href="https://medium.com/@sammdesign/how-designers-can-be-agents-of-change-d73c41d5f2bc#.qxzgx05xy" target="_blank">How Designers Can Be Agents of Change: Excerpt from my talk at the Sustainable UX Conference</a>
