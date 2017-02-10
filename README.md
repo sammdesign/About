@@ -1,3 +1,5 @@
+<img src="images/SamMoore-CircleWhite300px.png" alt="Sam Moore" height="100" width="100">
+
 # Sam Moore
 
 ### User Experience Designer
@@ -7,12 +9,11 @@ Sam is a designer, writer, and systems thinker passionate about technology solut
 Beyond the screen, Sam is an outdoor adventurer and conservation advocate with an interest in renewable energy. He enjoys exploring our National Parks, hiking in the White Mountains, and making pure maple syrup at his [family’s farm](https://www.windsweptmaples.com/) in New Hampshire.
 
 ### Find him online
-<a href="https://twitter.com/samMdesign" target="_blank">Twitter</a>
-[Twitter](https://twitter.com/samMdesign)
-[LinkedIn](https://www.linkedin.com/in/sammdesign)
-[Dribbble](https://dribbble.com/samMdesign)
-[Medium](https://medium.com/@sammdesign)
-[Behance](https://www.behance.net/sammdesign)     
+<a href="https://twitter.com/samMdesign" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sammdesign" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dribbble.com/samMdesign" target="_blank">Dribbble</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@sammdesign" target="_blank">Medium</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.behance.net/sammdesign" target="_blank">Behance</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 
 ### Select articles
 
