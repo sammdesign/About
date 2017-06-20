@@ -10,7 +10,7 @@
 <a href="https://medium.com/@sammdesign" target="_blank">Medium</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/sammdesign" target="_blank">Behance</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-Sam is a designer, writer, and systems thinker passionate about technology solutions that improve the quality of people’s lives. Focused on digital products and services, he is intent on improving user experience through better process, information architecture, and interaction design. As a Senior Design Consultant at [Cantina](https://cantina.co/) - a Boston-based digital design and development agency - Sam brings order and aesthetics to the experience of digital tools, mobile apps, and user interfaces.
+Sam is a designer, writer, and systems thinker passionate about smart technology solutions. Focused on digital products and services, he is intent on improving user experience through better process, information architecture, and interaction design. As a Principal Design Consultant at [Cantina](https://cantina.co/) - a Boston-based digital design and development agency - Sam brings order and aesthetics to the experience of digital tools, mobile apps, and user interfaces.
 
 Beyond the screen, Sam is an outdoor adventurer and conservation advocate with an interest in renewable energy. He enjoys exploring our National Parks, hiking in the White Mountains, and making pure maple syrup at his [family’s farm](https://www.windsweptmaples.com/) in New Hampshire.
   
