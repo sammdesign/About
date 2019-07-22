@@ -17,7 +17,7 @@ Beyond the screen, Sam is an outdoor adventurer and conservation advocate with a
 
 ### Select articles
 
-<a href="https://alistapart.com/article/practical-user-research-creating-a-culture" target="_blank">Practical User Research: Creating a Culture of Learning in Large Organizations</a> (AListApart)
+<a href="https://alistapart.com/article/practical-user-research-creating-a-culture" target="_blank">Practical User Research: Creating a Culture of Learning in Large Organizations</a> (A List Apart)
 
 <a href="https://cantina.co/when-building-for-the-web-dont-forget-the-front-end/" target="_blank">When Building For the Web, Don't Forget the Front-end</a>
 
